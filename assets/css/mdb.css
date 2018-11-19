@@ -24509,3 +24509,8 @@
   }
 }
  
+
+.form-check-input[type=checkbox]:checked+label:before, label.btn input[type=checkbox]:checked+label:before {
+    border-right: 2px solid #007872!important;
+    border-bottom: 2px solid #007872!important;
+} 

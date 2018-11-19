@@ -90,3 +90,8 @@ footer {
   color: #5c5c5c; }
   .two .form-check {
     text-align: center; }
+  .two .send {
+    background-color: #007872 !important; }
+
+.result {
+  display: none; }

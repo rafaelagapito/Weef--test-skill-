@@ -90,5 +90,10 @@ footer {
   color: #5c5c5c; }
   .two .form-check {
     text-align: center; }
+  .two .send {
+    background-color: #007872 !important; }
+
+.result {
+  display: none; }
 
 /* @media screen and (max-width: 1401px) @media screen and (max-width: 1201px) @media screen and (max-width: 1024px)  @media screen and (max-width: 768px)  @media screen and (max-width: 321px) */
