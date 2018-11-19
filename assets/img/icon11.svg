@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 88.227">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6f6f6f;
+      }
+    </style>
+  </defs>
+  <g id="pyramid" transform="translate(0 -36.717)">
+    <g id="Group_177" data-name="Group 177" transform="translate(0 36.717)">
+      <g id="Group_176" data-name="Group 176">
+        <path id="Path_118" data-name="Path 118" class="cls-1" d="M102.717,121.853,53.268,37.729a2.052,2.052,0,0,0-3.538,0L.283,121.853a2.052,2.052,0,0,0,1.769,3.091h98.9a2.052,2.052,0,0,0,1.769-3.091ZM51.5,42.818,65.16,66.058H37.839ZM35.427,70.161H67.572L80.959,92.936H22.04ZM5.637,120.84l13.99-23.8H83.372l13.99,23.8Z" transform="translate(0 -36.717)"/>
+      </g>
+    </g>
+    <g id="Group_179" data-name="Group 179" transform="translate(12.721 114.275)">
+      <g id="Group_178" data-name="Group 178">
+        <path id="Path_119" data-name="Path 119" class="cls-1" d="M84.574,422.247H65.287a2.052,2.052,0,1,0,0,4.1H84.573a2.052,2.052,0,0,0,0-4.1Z" transform="translate(-63.235 -422.247)"/>
+      </g>
+    </g>
+    <g id="Group_181" data-name="Group 181" transform="translate(39.394 114.275)">
+      <g id="Group_180" data-name="Group 180">
+        <path id="Path_120" data-name="Path 120" class="cls-1" d="M198.7,422.247h-.821a2.052,2.052,0,1,0,0,4.1h.821a2.052,2.052,0,1,0,0-4.1Z" transform="translate(-195.825 -422.247)"/>
+      </g>
+    </g>
+  </g>
+</svg>
