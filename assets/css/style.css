@@ -1,0 +1,92 @@
+.navbar:not(.top-nav-collapse) {
+  background: #00a59e !important; }
+
+.bg-dark {
+  background: #007872 !important; }
+
+.menu .navbar-brand::after {
+  content: url(../../assets/img/after.png);
+  margin-top: -7px;
+  position: absolute;
+  margin-left: 5px; }
+
+.menu .right a {
+  color: white;
+  margin: 0px 70px 0px 0px;
+  font-weight: bold; }
+
+.menu .right .translate {
+  margin: 0px 20px 0px 0px; }
+
+.menu .right .menu::after {
+  content: "Menu";
+  position: absolute;
+  margin-left: 5px; }
+
+.menu .right .seach::after {
+  content: "Menu";
+  position: absolute;
+  margin-left: 5px; }
+
+.carousel {
+  height: 400px;
+  background-image: url(../../assets/img/meeting.jpg);
+  background-position: center; }
+  .carousel .header {
+    padding-top: 15px; }
+    .carousel .header h4 {
+      color: white;
+      font-weight: bold;
+      float: left; }
+    .carousel .header ul {
+      float: right;
+      color: white;
+      display: inline-flex; }
+    .carousel .header li {
+      margin: 10px;
+      list-style: none; }
+      .carousel .header li::before {
+        position: absolute;
+        content: "|";
+        margin-left: -12px;
+        font-weight: bold; }
+  .carousel .body {
+    color: white;
+    padding: 150px 0px 0px 0px;
+    text-align: center; }
+    .carousel .body h1 {
+      font-weight: bold;
+      letter-spacing: 1px;
+      padding-bottom: 20px;
+      font-size: 30px; }
+    .carousel .body p {
+      font-weight: bold; }
+  .carousel .footer {
+    text-align: center; }
+    .carousel .footer i {
+      font-size: 50px;
+      color: white; }
+
+footer {
+  background: #00a59e !important; }
+
+.one {
+  padding-top: 50px;
+  color: #5c5c5c;
+  background: #e6e6e6; }
+  .one label {
+    font-weight: 400; }
+  .one p {
+    margin-bottom: 40px; }
+  .one .footer {
+    text-align: center; }
+    .one .footer i {
+      font-size: 50px;
+      color: #007872;
+      margin-bottom: 50px; }
+
+.two {
+  padding-top: 50px;
+  color: #5c5c5c; }
+  .two .form-check {
+    text-align: center; }
